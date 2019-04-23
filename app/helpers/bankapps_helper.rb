@@ -1,0 +1,2 @@
+module BankappsHelper
+end
